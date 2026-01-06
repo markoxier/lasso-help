@@ -1,0 +1,5 @@
+{
+  "id": "102_alarm_delayed",
+  "title": "My alarm went off minutes after it was scheduled",
+  "body": "This can happen due to how iOS manages background activity and system resources.\n\nIn rare cases, the system may delay alarm playback until the phone is actively in use.\n\nMake sure your device is updated to the latest version of iOS, and avoid force-closing the app before going to sleep.\n\nIf the issue continues, please contact us so we can help troubleshoot your specific setup."
+}
