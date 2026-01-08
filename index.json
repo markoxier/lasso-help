@@ -10,7 +10,7 @@
       "title": "Alarms",
       "sort": 10,
       "topics": [
-        { "id": "101_alarm_fail", "title": "My alarm failed to go off", "sort": 10 }
+        { "id": "101_alarm_fail", "title": "My alarm failed to go off at it's scheduled time", "sort": 10 }
       ]
     },
     {
@@ -29,6 +29,14 @@
       "topics": [
         { "id": "301_pairing", "title": "I'm having trouble pairing to my Lasso device", "sort": 10 },
         { "id": "302_unpairing", "title": "I'm having trouble unpairing from my Lasso device", "sort": 20 }
+      ]
+    },
+    {
+      "id": "grp_other",
+      "title": "Other",
+      "sort": 90,
+      "topics": [
+        { "id": "901_dynamic_island", "title": "The Lasso app is 'stuck' in the Dynamic Island", "sort": 10 }
       ]
     }
   ]
