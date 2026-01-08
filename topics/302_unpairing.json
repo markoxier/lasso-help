@@ -1,0 +1,5 @@
+{
+  "id": "302_unpairing",
+  "title": "I'm having trouble unpairing from my Lasso device",
+  "body": "Issue: I'm having trouble unpairing my iPhone from my Lasso device.\n\nTo unpair your device, open Lasso's Settings > Device and tap the container with your Device ID. An alert should appear asking you to confirm the removal of your device. Once you successfully remove your device, you will be dropped back on the initial Activate Device screen.\n\nIf you're experiencing any issues in this process, screenshot your device ID from the Device screen and use the contact button below to send us an email."
+}

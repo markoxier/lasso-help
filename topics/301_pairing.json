@@ -1,0 +1,5 @@
+{
+  "id": "301_pairing",
+  "title": "I'm having trouble pairing to my Lasso device",
+  "body": "Issue: I'm having trouble pairing my iPhone to my Lasso device.\n\nIf you tap the 'Activate Device' button and nothing happens (the 'Ready to Scan' popup does not appear), make sure you are running the latest version of both iOS and the Lasso app, then simply give your iPhone a restart.\n\nIf you successfully scanned your device (you saw a blue checkmark inside of the “Ready to Scan” popup) but received an error message, try scanning again. Sometimes it can take a few tries but once you’re paired, you won’t have to do this again.\n\nIf you continue to receive error messages, send us an email using the “Contact Us” button below the error message. This email will include your Device ID, which will help us resolve the issue sooner."
+}
