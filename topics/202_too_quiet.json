@@ -1,5 +1,0 @@
-{
-  "id": "202_too_quiet",
-  "title": "My alarm is too quiet",
-  "body": "If your alarm is too quiet, you may simply need to adjust the volume. If it's still too quiet after that, another setting may be affecting it.\n\nFirst, adjust the volume in your iPhone's Settings > Sounds & Haptics > Ringtone and Alerts. This controls the volume of the alarm while your iPhone is locked.\n\nSecond, adjust the volume in the Lasso app itself. Open Lasso's Settings > Volume. This controls the volume after you've responded to the alert on your Lock Screen. Match the volume in both places for a seamless transition.\n\nThird, confirm whether Lasso's Gradual Wake Up feature is enabled by going to Lasso's Settings > Wake Up. If it is set to 'Gradual', your alarm will be quiet at first, but slowly increase to your set volume.\n\nIf the alarm is still quiet, another setting could be affecting it. Reach out to us using the contact button below, and we'll help you diagnose the issue."
-}
