@@ -1,5 +1,5 @@
 {
   "id": "901_dynamic_island",
-  "title": "The Lasso app is 'stuck' in the Dynamic Island",
-  "body": "If tapping the Dynamic Island (the black shape around the front-facing camera) opens the Lasso app when an alarm is no longer active or snoozed, it may be 'stuck.'\n\nThis seems to be an issue that occurs when the Live Activity from the alarm is dismissed in certain ways, for example, swiping the Live Activity away instead of tapping on it.\n\nThe only way we've found to resolve this is to restart your iPhone. The Dynamic Island should return to normal afterwards."
+  "title": "The Lasso app is ‘stuck’ in the Dynamic Island.",
+  "body": "If tapping the Dynamic Island (the black shape around your iPhone’s front-facing camera) opens the Lasso app while an alarm is no longer ringing or snoozed, it may be ‘stuck.’\n\nThe only way we’ve found to correct this is to restart your iPhone. Your Dynamic Island should return to normal."
 }
