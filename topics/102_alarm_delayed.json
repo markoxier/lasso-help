@@ -1,5 +1,0 @@
-{
-  "id": "102_alarm_delayed",
-  "title": "My alarm rang minutes after it was scheduled",
-  "body": "My alarm did not ring at its scheduled time, then rang several minutes later.\n\nThis is a seemingly uncommon iOS bug, that seems to affect phones with very little overnight background activity. It was improved in iOS 26.2.\n\nMake sure your device is running the latest version of iOS. If you continue to experience this, use the contact button below to let us know."
-}

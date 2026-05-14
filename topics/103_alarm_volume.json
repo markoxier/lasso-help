@@ -1,0 +1,5 @@
+{
+  "id": "103_alarm_volume",
+  "title": "My alarm volume is either too loud or too quiet",
+  "body": "You can adjust the volume of your alarm but you must do so in two places.\n\nFirst, adjust the volume in your iPhone’s Settings > Sounds & Haptics > Ringtone and Alerts. This determines the volume of the alarm while your iPhone is locked.\n\nNext, adjust the volume in the Lasso App’s Settings > Volume. This determines the volume of the alarm after you’ve unlocked your iPhone. Try to match both for a seamless transition.\n\nYou may also adjust the ‘Wake Up’ feature in the Lasso app’s Settings > Wake Up.\n\nIf you’re still experiencing volume issues after adjusting these settings, reach out to us below."
+}

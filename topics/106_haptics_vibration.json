@@ -1,5 +1,5 @@
 {
-  "id": "203_alarm_haptics",
+  "id": "106_haptics_vibration",
   "title": "I’d like to add or remove haptics from my alarm.",
   "body": "While you can toggle haptics for your alarm, it will affect haptics for all alerts on your iPhone (phone calls, other alarms etc.) iOS does not currently grant users or third party apps the ability to toggle haptics for alarms only.\n\nIf you’d still like to adjust this, you can do so by going into your iPhone’s Settings > Sounds & Haptics > Ringtone and Alerts, then selecting an option for ‘Haptics.’"
 }
