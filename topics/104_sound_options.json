@@ -1,5 +1,5 @@
 {
   "id": "104_sound_options",
   "title": "I’d like more options for my alarm sound",
-  "body": "While we work on incorporating more sound options directly into the app, you have the ability to import any audio file from your iPhone to use as a custom alarm sound.\n\nThere are thousands of free alarm tones available on the internet. The best source that we’ve found is a website called Zedge (zedge.net). Search things like ‘alarm’ ‘gentle wake up’, or even a specific song.\n\nOnce you’ve downloaded an audio file to your iPhone, navigate to the Lasso app’s Settings > Sound menu. Tap ‘Import Sound,’ find your audio file in the file picker, then select ‘Custom’ instead of ‘Default.’"
+  "body": "While we work on incorporating more sound options directly into the app, you have the ability to import any audio file from your iPhone to use as a custom alarm sound.\n\nThere are thousands of free alarm tones available on the internet. The best source that we’ve found is a website called Zedge (zedge.net). Search things like ‘alarm’ ‘gentle wake up’, or even the name of a specific alarm sound or song.\n\nOnce you’ve downloaded an audio file to your iPhone, navigate to the Lasso app’s Settings > Sound menu. Tap ‘Import Sound,’ select your audio file in the file picker, then select ‘Custom’ instead of ‘Default.’"
 }
