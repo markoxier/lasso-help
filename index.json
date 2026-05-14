@@ -33,7 +33,7 @@
       "title": "In-App Purchases",
       "sort": 30,
       "topics": [
-        { "id": "301_purchase_issue", "title": "I experience an issue with a purchase", "sort": 10 },
+        { "id": "301_purchase_issue", "title": "I experienced an issue with a purchase", "sort": 10 },
         { "id": "302_refund", "title": "I need a refund for a purchase", "sort": 20 }
       ]
     },
