@@ -1,44 +1,40 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026-01-28-2:35", 
+  "contentVersion": "2026-05-13",
   "minAppVersion": 37,
   "cacheTtlSeconds": 3600,
 
   "groups": [
-        {
+    {
       "id": "grp_alarms",
       "title": "Alarms",
       "sort": 10,
       "topics": [
-        { "id": "101_alarm_fail", "title": "My alarm malfunctioned", "sort": 10 }
+        { "id": "101_alarm_failed_misfired", "title": "My alarm failed or misfired", "sort": 10 },
+        { "id": "102_alarm_away_from_home", "title": "My alarm fired while away from home", "sort": 20 },
+        { "id": "103_alarm_volume", "title": "My alarm is too loud or too quiet", "sort": 30 },
+        { "id": "104_sound_options", "title": "I'd like more sound options", "sort": 40 },
+        { "id": "105_lock_screen", "title": "Display my next alarm on the lock screen", "sort": 50 },
+        { "id": "106_haptics_vibration", "title": "Add or remove haptics and vibration", "sort": 60 }
       ]
     },
     {
-      "id": "grp_customize",
-      "title": "Customize",
+      "id": "grp_device_users",
+      "title": "Device & Users",
       "sort": 20,
       "topics": [
-        { "id": "201_lock_screen_widget", "title": "Add 'Next Alarm' to the Lock Screen", "sort": 10 },
-        { "id": "202_more_alarms", "title": "Add more than 3 alarms", "sort": 20 },
-        { "id": "202_sound_options", "title": "Get more sound options", "sort": 30 },
-        { "id": "203_alarm_haptics", "title": "Add or remove haptics/vibration", "sort": 40 }
+        { "id": "201_pair_additional_users", "title": "Pair additional users to a Lasso device", "sort": 10 },
+        { "id": "202_pair_multiple_devices", "title": "Pair to multiple Lasso devices", "sort": 20 },
+        { "id": "203_scanning_trouble", "title": "I'm having trouble scanning my device", "sort": 30 }
       ]
     },
     {
-      "id": "grp_volume",
-      "title": "Volume",
+      "id": "grp_purchases",
+      "title": "In-App Purchases",
       "sort": 30,
       "topics": [
-        { "id": "301_too_loud", "title": "My alarm is too loud", "sort": 10 },
-        { "id": "302_too_quiet", "title": "My alarm is too quiet", "sort": 20 }
-      ]
-    },
-    {
-      "id": "grp_device",
-      "title": "Device",
-      "sort": 40,
-      "topics": [
-        { "id": "401_unpairing", "title": "I can't un-pair from my device", "sort": 20 }
+        { "id": "301_purchase_issue", "title": "I experience an issue with a purchase", "sort": 10 },
+        { "id": "302_refund", "title": "I need a refund for a purchase", "sort": 20 }
       ]
     },
     {
@@ -46,8 +42,7 @@
       "title": "Other",
       "sort": 90,
       "topics": [
-        { "id": "901_dynamic_island", "title": "The app is 'stuck' in my Dynamic Island", "sort": 10 },
-        { "id": "902_app_interfere", "title": "The alarm is interfering with other apps", "sort": 20 }
+        { "id": "901_dynamic_island", "title": "The app is 'stuck' in the dynamic island", "sort": 10 }
       ]
     }
   ]
