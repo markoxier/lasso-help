@@ -1,5 +1,5 @@
 {
   "id": "201_pair_additional_users",
   "title": "Pair additional iPhone users to a Lasso device",
-  "body": "Additional users can pair to and use the same Lasso device for an in-app purchase.\n\nThe in-app purchase can be made by either the existing user or the new user. Existing users can make the purchase by navigating to the Lasso app’s Settings > Device menu. New users can make the purchase by attempting to pair to the device.\n\nOnce a ‘seat’ is purchased on a device, it is valid for the life of the device and is not tied to a specific iPhone. If a device has two seats, any two iPhone users can be paired to it once. They may also unpair from the device to free up space for someone else."
+  "body": "Additional users can pair to and use the same Lasso device for an in-app purchase.\n\nThe in-app purchase can be made by either the existing user or the new user. Existing users can make the purchase by navigating to the Lasso app’s Settings > Device menu. New users can make the purchase by attempting to pair to the device.\n\nOnce a ‘seat’ is purchased on a device, it is valid for the life of the device and is not tied to a specific iPhone. If a device has two seats, any two iPhone users can be paired to it at once. They may also unpair from the device to free up space for someone else."
 }
